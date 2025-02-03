@@ -26,7 +26,7 @@ Python 3.x
 
 ## 🎲 How to Play
 + Start the game and follow the instructions displayed in the terminal.
-+ Enter 'hit' to draw another card or 'stand' to hold your total.
++ Enter 1 (Stay) to draw another card or 2 (Hit) to hold your total.
 + The objective is to get as close as possible to a score of 21 without exceeding it.
 
 ## 💡 Future Enhancements
